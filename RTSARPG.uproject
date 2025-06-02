@@ -23,6 +23,10 @@
 		{
 			"Name": "AESGCMHandlerComponent",
 			"Enabled": true
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
 		}
 	]
 }
